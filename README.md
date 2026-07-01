@@ -23,8 +23,7 @@ The dashboard helps management monitor:
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
-
+![Kids Wear Dashboard](Images/dashboard-overview.png)
 ## Key KPIs
 
 - Total Sales
